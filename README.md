@@ -1,4 +1,4 @@
-# auto-10fastfingers
+# Auto 10fastfingers.com
 
 Just a small tool to completely typing all words occur on 10fastfingers.com
 
